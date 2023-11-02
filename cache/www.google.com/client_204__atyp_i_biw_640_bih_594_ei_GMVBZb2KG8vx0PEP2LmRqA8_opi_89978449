@@ -1,0 +1,12 @@
+HTTP/1.0 204 No Content
+Content-Type: text/html; charset=ISO-8859-1
+Content-Security-Policy: object-src 'none';base-uri 'self';script-src 'nonce-5cRBto7uNxfnhB_GPBDNOQ' 'strict-dynamic' 'report-sample' 'unsafe-eval' 'unsafe-inline' https: http:;report-uri https://csp.withgoogle.com/csp/gws/xsrp
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Date: Wed, 01 Nov 2023 03:25:12 GMT
+Server: gws
+Content-Length: 0
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2023-11-01-03; expires=Fri, 01-Dec-2023 03:25:12 GMT; path=/; domain=.google.com; Secure
+Set-Cookie: NID=511=NJj3vMt0pRVi-GBsoEL97jK_CWti3lDkfrCOM4Yb0WPFtKZWRW-b_1PoIYHWSIP20EiAWKV02fdW0akIrutYledwSP7O-6H8pLLKQwHzBnsLdIV1fRosG8tQRXnd7qL4uNLc2yiFAEPyIh2SoRXIn-UO1GzxqCGItF6A9EyEErA; expires=Thu, 02-May-2024 03:25:12 GMT; path=/; domain=.google.com; HttpOnly
+
